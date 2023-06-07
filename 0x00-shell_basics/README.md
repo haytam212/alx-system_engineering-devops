@@ -3,3 +3,4 @@ File describtion of each script is doing
 1-listit Display the contents list of your current directory.
 3-listfiles Display current directory contents in a long format
 4-listmorefiles Display current directory contents, including hidden files
+6-firstdirectory Create a script that creates a directory named my_first_directory
